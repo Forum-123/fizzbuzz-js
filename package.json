@@ -1,0 +1,27 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "fizzbuzz.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamsamuxumed/fizzbuzz-js.git"
+  },
+  "keywords": [
+    "fizz",
+    "buzz"
+  ],
+  "author": "hamsa, forum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hamsamuxumed/fizzbuzz-js/issues"
+  },
+  "homepage": "https://github.com/hamsamuxumed/fizzbuzz-js#readme",
+  "devDependencies": {
+    "jest": "^27.2.0"
+  }
+}
